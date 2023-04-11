@@ -27,5 +27,5 @@ I am a recent Mechanical Engineering graduate with experience in designing mecha
 
 If you have any questions or suggestions regarding my skills, feel free to reach out to me via GitHub or LinkedIn:
 
-GitHub: https://github.com/matthewlieb
-LinkedIn: https://www.linkedin.com/in/matthew-lieb/
+- GitHub: https://github.com/matthewlieb
+- LinkedIn: https://www.linkedin.com/in/matthew-lieb/
