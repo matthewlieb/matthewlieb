@@ -6,12 +6,12 @@ I am a recent Mechanical Engineering graduate with experience in designing mecha
 ## Mechanical Engineering Skills 🔧
 
 
-Designing mechanical systems using AutoCAD and SOLIDWORKS
-Creating P&ID diagrams adhering to AMSE Y14 standards
-Developing Technical Data Packages adhering to ABS standards
-Modeling hydraulic systems in AutoCAD 3D with GD&T per ASME Y14.5
-Conducting site analysis for solar panel installation
-Configuring power panel optimizers using Excel with a genetic algorithm
+- Designing mechanical systems using AutoCAD and SOLIDWORKS
+- Creating P&ID diagrams adhering to AMSE Y14 standards
+- Developing Technical Data Packages adhering to ABS standards
+- Modeling hydraulic systems in AutoCAD 3D with GD&T per ASME Y14.5
+- Conducting site analysis for solar panel installation
+- Configuring power panel optimizers using Excel with a genetic algorithm
 
 ## Software Engineering Skills 💻
 
