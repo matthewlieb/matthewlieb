@@ -1,7 +1,7 @@
 ## Matthew Lieb's Skills 🔧💻
 
 
-I am a recent Mechanical Engineering graduate with experience in designing mechanical systems using AutoCAD and SOLIDWORKS for projects including Navy frigates and icebreaking research vessels. I am seeking a position as a Mechanical Engineer in the naval, aerospace, or automotive fields.
+I am an engineer with experience in software, mechanical, and systems. Projects I've worked include designing mechanical systems using AutoCAD and SOLIDWORKS for projects including Navy frigates and icebreaking research vessels. I am seeking a position as a Mechanical Engineer in the naval, aerospace, or automotive fields.
 
 ## Mechanical Engineering Skills 🔧
 
@@ -22,6 +22,14 @@ I am a recent Mechanical Engineering graduate with experience in designing mecha
 - Implementing reinforcement learning for unmanned surface vehicles using Python
 - Experience with Git and GitHub for version control
 
+## Systems Engineering Skills 🚀
+
+
+- SysML and DoDAF Model-Based Systems Engineering using Cameo
+- Automating Jira processes for enhanced Scrum team efficiency.
+- Decomposed technical documents into requirements using IBM DOORS
+
+
 
 ## Contact 📞
 
@@ -29,3 +37,4 @@ If you have any questions or suggestions regarding my skills, feel free to reach
 
 - GitHub: https://github.com/matthewlieb
 - LinkedIn: https://www.linkedin.com/in/matthew-lieb/
+- Portfolio: https://matthewlieb.github.io/
