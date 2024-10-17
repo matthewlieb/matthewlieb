@@ -41,7 +41,7 @@ Apart from my engineering pursuits, I am passionate about 3D printing functional
 ## Education 🎓
 
 - **M.S. in Data Science & Analytics**
-  - Georgia Institute of Technology (Expected Dec 2026)
+  - Georgia Institute of Technology (Expected Dec 2025)
 - **B.S. in Mechanical Engineering & Sustainability, Honors**
   - Lehigh University (May 2021)
 
