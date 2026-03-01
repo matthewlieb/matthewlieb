@@ -59,6 +59,9 @@ Created relational databases for maritime systems, developed genetic algorithms 
 - **[TruthSight Landing Page](https://github.com/matthewlieb/truthsight-landing-page)** - TypeScript-based landing page with modern responsive design
 - **[Pub Pickup](https://github.com/matthewlieb/pub-pickup)** - Python application for managing pub pickup orders and logistics
 
+### Desktop & Mac Apps
+- **[SpotifiMessage](https://github.com/matthewlieb/spotify-imessage)** - Mac app that extracts Spotify links from iMessage and creates playlists in one flow. Electron, React, Flask, Spotify API. [Download](https://matthewlieb.github.io/spotify-imessage)
+
 ### Coding Practice
 - **[E-LEET](https://github.com/matthewlieb/E-LEET)** - Solutions to various LeetCode challenges written in Python
 
